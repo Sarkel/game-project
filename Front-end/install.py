@@ -2,11 +2,13 @@ import os
 
 
 try:
+	print('Node: ')
 	os.system('node --version')
 except Exception as e:
 	print('You need to install node')
 
 try:
+	print('Npm: ')
 	os.system('npm --version')
 except Exception as e:
 	print('You need to install npm')
