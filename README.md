@@ -40,7 +40,7 @@
 	- main.css: przykładowy plik css powstały przez kompilację pliku main.scss
  - views: katalog zawiera szablony poszczególnych widoków
 
-4. Obsługa grunta (kazde polecenia poprzedza słowo grunt):
+4. Obsługa grunta (kazde polecenia poprzedza słowo grunt np. grunt build):
  - serve: stawia lokalny server, który się odświeża automatycznie przy każdej zmianie w projekcie
  - build: przygotowuje projekt do deploymentu na server. Powstały kod jest umieszczany w folderze dist.
  - test: uruchamia wszystkie testy
