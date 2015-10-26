@@ -18,7 +18,9 @@ angular
     'ngRoute',
     'ngSanitize',
     'ngTouch',
-    'infinite-scroll'
+    'infinite-scroll',
+    'ngWebsocket',
+    'LocalStorageModule'
   ])
   .config(function ($routeProvider) {
     $routeProvider
