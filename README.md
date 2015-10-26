@@ -15,7 +15,12 @@
     Ruby, node, npm, php oraz git można znaleźc w standardowych repozytoriach większości dystrybucji.
     Sassa instalujemy tak samo jak w poprzednim podpunkcie.
 
-2. Struktura projektu:
+2. Instalacja projektu:
+ - Front-end:
+ 	- wywołanie komendy: npm install w ./Front-end/
+ 	- wywołanie komendy: bower install w ./Front-end/
+ -Back-end:
+3. Struktura projektu:
  - Back-end: jest to katalog zawierający wszystkie skrypty pracujące po stronie servera.
  - Front-end:
 	- package.json: plik zawiera spis modułów npm używanych w projekcie  
@@ -28,7 +33,7 @@
 	- app: katalog zawierający główną częśc projektu
  - Generator Map: jest to katalog zawierający wszytskie komponenty odpowiedzialne za losowanie map.
 
-3. Katalog App i jego szczegóły:
+4. Katalog App i jego szczegóły:
  - images: katalog zawierający zdjęcia używane w projekcie
  - scripts: katalog zawiera wszystkie skrypty js używane w projekcie
 	- app.js: główny plik js definiujący moduł nadrzędny projektu angularowego oraz system providerów
@@ -40,10 +45,10 @@
 	- main.css: przykładowy plik css powstały przez kompilację pliku main.scss
  - views: katalog zawiera szablony poszczególnych widoków
 
-4. Obsługa grunta (kazde polecenia poprzedza słowo grunt np. grunt build):
+5. Obsługa grunta (kazde polecenia poprzedza słowo grunt np. grunt build):
  - serve: stawia lokalny server, który się odświeża automatycznie przy każdej zmianie w projekcie
  - build: przygotowuje projekt do deploymentu na server. Powstały kod jest umieszczany w folderze dist.
  - test: uruchamia wszystkie testy
 
-5. Dobre praktyki:
+6. Dobre praktyki:
  - w skryptach js używamy oznaczenia 'use strict' dla lepszej wydajności kodu
