@@ -19,7 +19,7 @@
  - Front-end:
  	- wywołanie komendy: npm install w ./Front-end/
  	- wywołanie komendy: bower install w ./Front-end/
- -Back-end:
+ - Back-end:
 3. Struktura projektu:
  - Back-end: jest to katalog zawierający wszystkie skrypty pracujące po stronie servera.
  - Front-end:
