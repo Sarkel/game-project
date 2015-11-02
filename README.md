@@ -55,3 +55,9 @@
 
 6. Dobre praktyki:
  - w skryptach js używamy oznaczenia 'use strict' dla lepszej wydajności kodu
+
+ 7. Przydatne programy:
+ - chrome plugins:
+ 	1. Postman
+ 	2. JSON editor
+ 	3. Advanced REST client
