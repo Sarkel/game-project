@@ -4,16 +4,17 @@
 
 1. Wymagania:
  - Windows:
-	- [Ruby](https://www.ruby-lang.org/pl/) 
+	- [Ruby](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.3.exe) 
 	- Sass: gem install sass
 	- Compass: gem install compass
-	- [node](https://nodejs.org/en/)
+	- [node](https://nodejs.org/dist/v4.2.1/node-v4.2.1-x64.msi)
 	- [npm](https://www.npmjs.com/)
-	- [TortoiseGit](https://tortoisegit.org/) lub [Standardowy Git](https://git-scm.com/)
+	- [TortoiseGit](https://tortoisegit.org/download/) lub [Standardowy Git](https://git-scm.com/download/win)
 	- [Konto GitHub](https://github.com/)
-	- [php](https://secure.php.net/)
+	- [php](http://windows.php.net//downloads/releases/php-5.6.15-Win32-VC11-x86.zip)
+	- [python 2.x](https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi) - na wszelki wypadek
  - Linux:
-    Ruby, node, npm, php oraz git można znaleźc w standardowych repozytoriach większości dystrybucji.
+    Ruby, node, npm, php, pyhton oraz git można znaleźc w standardowych repozytoriach większości dystrybucji.
     Sassa i campass instalujemy tak samo jak w poprzednim podpunkcie.
 
 2. Instalacja projektu:
