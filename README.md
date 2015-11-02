@@ -58,6 +58,6 @@
 
  7. Przydatne programy:
  - chrome plugins:
- 	1. Postman
- 	2. JSON editor
- 	3. Advanced REST client
+ 	- Postman
+ 	- JSON editor
+ 	- Advanced REST client
