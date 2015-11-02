@@ -6,6 +6,7 @@
  - Windows:
 	- [Ruby](https://www.ruby-lang.org/pl/) 
 	- Sass: gem install sass
+	- Compass: gem install compass
 	- [node](https://nodejs.org/en/)
 	- [npm](https://www.npmjs.com/)
 	- [TortoiseGit](https://tortoisegit.org/) lub [Standardowy Git](https://git-scm.com/)
@@ -13,12 +14,13 @@
 	- [php](https://secure.php.net/)
  - Linux:
     Ruby, node, npm, php oraz git można znaleźc w standardowych repozytoriach większości dystrybucji.
-    Sassa instalujemy tak samo jak w poprzednim podpunkcie.
+    Sassa i campass instalujemy tak samo jak w poprzednim podpunkcie.
 
 2. Instalacja projektu:
  - Front-end:
  	- wywołanie komendy: npm install w ./Front-end/
  	- wywołanie komendy: bower install w ./Front-end/
+ 	- w razie problemów uruchamiamy (npm install grunt grunt-cli -g )
  - Back-end:
 3. Struktura projektu:
  - Back-end: jest to katalog zawierający wszystkie skrypty pracujące po stronie servera.
