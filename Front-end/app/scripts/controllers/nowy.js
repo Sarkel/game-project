@@ -2,13 +2,13 @@
 
 /**
  * @ngdoc function
- * @name frontEndApp.controller:AboutCtrl
+ * @name frontEndApp.controller:MojCtrl
  * @description
- * # AboutCtrl
+ * # MojCtrl
  * Controller of the frontEndApp
  */
 angular.module('frontEndApp')
-	.controller('MojCtrl', ['$scope', function MojCtrl($scope){
+	.controller('MojCtrl', ['$scope', function ($scope){
 
 	
 	}]);
