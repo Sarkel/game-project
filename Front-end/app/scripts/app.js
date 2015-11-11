@@ -34,6 +34,11 @@ angular
         controller: 'AboutCtrl',
         controllerAs: 'about'
       })
+	  .when('/new',{
+		  templateUrl: 'views/new.html',
+		  controller: 'MojCtrl',
+		  controllerAs: 'maja'
+	  })
       .otherwise({
         redirectTo: '/'
       });

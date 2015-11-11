@@ -14,7 +14,9 @@ angular.module('frontEndApp')
       'AngularJS',
       'Karma'
     ];
-  	$http.get('localhost:8000/test.php').success(function(data){
-  		$scope.test = data;
-  	});
+//  	$http.get('localhost:8000/test.php').success(function(data){
+//  		$scope.test = data;
+//  	});
   }]);
+
+  
