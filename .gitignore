@@ -1,5 +1,5 @@
 Front-end/node_modules
-Front-end/dist
+Front-end/dist/.htaccess
 Front-end/.tmp
 Front-end/.sass-cache
 Front-end/bower_components
